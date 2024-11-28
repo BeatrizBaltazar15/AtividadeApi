@@ -1,5 +1,5 @@
 import express from "express";
-import { inf, buscarPorId, infPorAno, reajuste } from "./serviços/serviços.js";
+import { inf, buscarPorId, infPorAno, reajuste } from "./serviço/serviço.js";
 
 const app = express();
 
