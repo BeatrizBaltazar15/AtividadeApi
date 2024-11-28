@@ -1,4 +1,4 @@
-import colecaoInf from "../dados/dados.js";
+import colecaoInf from "../dado/dado.js";
 
 export const buscarInf = () =>{
     return colecaoInf;
